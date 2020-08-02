@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- module element sequence:
+  There is no fixed order specified for many of the child elements of module
+  To keep things deterministics means complex nesting
+-->
+<!ELEMENT module
+  (
+    version?,
+      (
+        (
+          author,
+            (
+              (
+                (
+                  title, label, date,
+                    (
+                      (
+                        url, tags, properties, description?, taxonomy?, views, connectors, buses?
+                      ) | (
+                        tags, properties, description, url?, views, connectors, schematic-subparts?, buses?, url?
+                      ) | (
+                        description, tags, properties, views, connectors, schematic-subparts?, buses?, url?
+                      )
+                    )
+                ) | (
+                  date, title, label,
+                    (
+                      (
+                        tags, properties, description, views, connectors, schematic-subparts?, buses?, url?
+                      ) | (
+                        description, tags, properties, views, connectors, schematic-subparts?, buses?, url?
+                      )
+                    )
+                )
+              )
+            )
+        ) | (
+          date, author, description, title,
+          (
+            (
+              tags, properties, views, connectors, schematic-subparts?, buses?, label?, url?
+            ) | (
+              url, tags, properties, views, connectors, schematic-subparts?, buses?
+            )
+          )
+        )
+      )
+  )>
+<!ELEMENT version (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT tags (tag*)>
+<!ELEMENT tag (#PCDATA)>
+<!ELEMENT properties (property*)>
+<!ELEMENT property (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT taxonomy (#PCDATA)>
+<!-- views element sequence:
+  There is no fixed order specified for the child elements of views, and not
+  all view types have to exist
+  To keep things deterministics means complex nesting
+-->
+<!ELEMENT views
+  (
+    (
+      iconView,
+        (
+          (
+            breadboardView,
+              (
+                (
+                  schematicView, pcbView?
+                ) | (
+                  pcbView, schematicView?
+                )
+              )
+          ) | (
+            schematicView, pcbView?, breadboardView?
+          )
+        )
+    ) | (
+      breadboardView, schematicView?, pcbView?, iconView?
+    ) | (
+      schematicView,
+        (
+          (
+            pcbView,
+              (
+                (
+                  breadboardView, iconView?
+                ) | (
+                  iconView, breadboardView?
+                )
+              )
+          ) | (
+            breadboardView, pcbView?, iconView?
+          )
+        )
+    )
+  )>
+<!ELEMENT iconView (layers)>
+<!ELEMENT breadboardView (layers | p)>
+<!ELEMENT schematicView (layers | p)>
+<!ELEMENT pcbView (layers? | p+)>
+<!ELEMENT layers (layer*)>
+<!ELEMENT layer (#PCDATA)>
+<!ELEMENT connectors (connector*)>
+<!ELEMENT connector ((description?, views)?)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT schematic-subparts (subpart+)>
+<!ELEMENT subpart (connectors)>
+<!ELEMENT buses (bus*)>
+<!ELEMENT bus (nodeMember, nodeMember+)>
+<!ELEMENT nodeMember (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+
+<!-- module attributes:
+  moduleId should be ID, but can have leading digits which would not be valid
+-->
+<!ATTLIST module
+  fritzingVersion CDATA #REQUIRED
+  referenceFile CDATA #IMPLIED
+  moduleId CDATA #REQUIRED
+>
+<!-- property attributes:
+  should name be ID type?
+-->
+<!ATTLIST property name CDATA #REQUIRED>
+<!ATTLIST schematicView
+ fliphorizontal (true | false) "false"
+ flipvertical (true | false) "false"
+>
+<!ATTLIST layers image CDATA #REQUIRED>
+<!ATTLIST layer layerId CDATA #REQUIRED>
+<!-- property attributes:
+  id should be type ID when not descendant of subpart
+  id should be type IDREF when descendant of subpart
+-->
+<!ATTLIST connector
+  id CDATA #REQUIRED
+  type (male | female | pad) #IMPLIED
+  name CDATA #IMPLIED
+>
+<!ATTLIST p
+  layer CDATA #REQUIRED
+  svgId CDATA #REQUIRED
+  legId CDATA #IMPLIED
+  terminalId CDATA #IMPLIED
+  hybrid (yes | no) #IMPLIED
+>
+<!ATTLIST subpart
+  id ID #REQUIRED
+  label CDATA #REQUIRED
+>
+<!-- bus attributes:
+  id should be type ID, but that is not valid when starting with a digit
+-->
+<!ATTLIST bus id CDATA #REQUIRED>
+<!ATTLIST nodeMember connectorId CDATA #REQUIRED>

@@ -1,0 +1,667 @@
+
+
+
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel_edison_minibreakout_fix.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel_edison_minibreakout_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Ethernet-v11.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Arduino', 'Arduino-Ethernet-v11_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_pushbutton.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_resistor_0402.fzp
+{'information': [], 'warning': [{'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'description', 'context': ['root']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-shield_r3_two_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-shield-rev3.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/pot_trimmer_12mm.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/basic_power_transistor_pnp.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-12_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Lilypad_PowerSupply-v18.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'Lilypad_PowerSupply-v18_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-7_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/JST-03JQ-BT.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/inductor.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_inductor_1206.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-intel-galileo-pcb-shape.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-intel-galileo-pcb.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-Temp-v12.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-Temp-v12_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/screw_terminal_2_3.5mm.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Taiway-100-SP-X-T1-X-X-B1-M1_SPDT_miniature_toggle_switch_body.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/peltier element.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/screw_terminal_2_300mil.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-11_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/pushbutton_2_horizontal.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino_Yun(rev1)_v1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'arduino_Yun(rev1)_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Calliope_mini_V_1_0.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': ' TI DRV8837', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/optical_jack_otj-8.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Textile Pushbutton.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': 'TACRACPS1X0404GY ', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-6_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/seeed_arch_v1.1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (mbed)', 'seeed_arch_v1.1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_NPN_TO92_EBC.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Calliope_mini_V_1_3.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': ' TI DRV8837', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_PNP_TO92_EBC.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Dagu DGServo 9g header connector (female).fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Taiway-100-SP-X-T1-X-X-B1-M2_SPDT_miniature_toggle_switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/S1133_Si_Photodiode.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/S1133_Si_Photodiode_Icon.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/S1133_Si_Photodiode_Icon.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/TPA2000D1 Audio Amplifier dip double.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': 'Breakout board Double Row DIL16 ', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/fritzing_donuts.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Donut', 'Fritzing-donut-logo_breaboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/96boards_CE.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'cpu board (96boards)', '96boards_CE_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_Pro.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_Pro_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry_Pi_A.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'CPU Board (Raspberry Pi)', 'raspberry_pi_a_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/raspberrypi-b+-pcb-shape.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/raspberrypi-b+-pcb-shape.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry Pi 3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'cpu board (raspberry pi)', 'raspberry_pi_3_rev-1.2.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-5_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/fritzing_donuts-white.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Donut', 'fritzing_donuts-white_breaboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/EDGY_Analog_In.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'null_family', 'msg': 'empty family property', 'value': None, 'context': []}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_NPN_TO92_ECB.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/NetduinoPlus2.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (Netduino)', 'NetduinoPlus2.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/JST-VHR-3N.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/OMRON_G5LE.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': 'G5LE-1\n', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Fio-v22(fix)-bottom.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Fio-v22_bottom_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Pro-Mini-v13-a4+5.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Pro-Mini-v13_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-3_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_Esplora.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_Esplora_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry_Pi_B(rev1).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'CPU Board (Raspberry Pi)', 'raspberry_pi_rev1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_DUE_V02b.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_DUE_V02b_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/APEM-PT65-303_Rotary_coded_hexadecimal_switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_Leonardo_Rev3(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_Leonardo_Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_inductor_0603.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/STM32_Nucleo_board.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'NucleoBoard', 'STM32_Nucleo_board_breadboard.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'url', 'context': ['module.properties']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/16-segment_display.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'property', 'context': ['module']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/MicroCrossDVI_connector_molex.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_MEGA_2560-Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/lm358.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'not-schematic-subparts', 'context': ['module']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Rotary_Encoder_fix.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/aisler_cloud.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'schematic/aisler_donut-cloud_logo_schematic.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Donut', 'aisler_donut-cloud_logo_breaboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_inductor_0805.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/screw_terminal_2_200mil.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Sony_Spresense_1.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': 'microcontroller board ', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/DFRobot-PH-sensor.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/RS_Pro_32_1-row_ab_male.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_NPN_TO92_CBE.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/basic-toggle-switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-Accelerometer-v17.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-Accelerometer-v17_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Dagu DGServo 9g header (male).fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Fio-v22(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Fio-v22_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/RS_Pro_32_1-row_straight_female.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry_Pi_B+.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'CPU Board (Raspberry Pi)', 'raspberry_pi_b+_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_ADK_MEGA_2560-Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel-arduino_galileo_gen2-simple.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel-arduino-galileo_gen2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/pot_big.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-Light Sensor-v13.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-Light Sensor-v13_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/basic_power_transistor_npn.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-9_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/optical_jack_orj-8.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/tsop312.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry_Pi_2_v1.1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'CPU Board (Raspberry Pi)', 'raspberry_pi2_v1.1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-2_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/controller_wiring.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (Wiring)', 'controller_wiring.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel-arduino_galileo.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel-arduino-galileo_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/udoo_dual.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (Udoo)', 'Udoo_dual_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/ADI_OP482.AnalogDevices_OP482GPZ.fzp
+{'information': [], 'warning': [{'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'spice', 'context': ['root']}, {'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'spice', 'context': ['root']}, {'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'spice', 'context': ['root']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Wiring_S.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (Wiring)', 'Wiring_Sa99.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Mini-v5.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Mini-v5_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/Digital_Panel_Meter__Voltage__DMS_20PC__.svg']}], 'error': [{'key': 'null_family', 'msg': 'empty family property', 'value': None, 'context': []}, {'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/Digital_Panel_Meter__Voltage__DMS_20PC__.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad Battery-Connect-v11.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad Battery-Connect-v11_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Dagu DGServo 9g PCB mounting holes.fzp
+{'information': [], 'warning': [{'key': 'no_bb_view', 'msg': 'part does not have a breadboard view', 'value': None, 'context': ['family', 'Dagu DGServo 9g']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/pushbutton_4_horizontal.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/DRV8825_breakout.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'silkscreen1', 'context': ['pcbView', 'pcb/DRV8825_breakout_pcb.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/stepper_motor_bipolar.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': ' 2.4 kg*cm', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-8_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad SimplePower-v13.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad SimplePower-v13_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_PNP_TO92_ECB.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_BC857.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/JST-B3P-VH.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-mega-rev3-shield_two_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-mega-Rev3.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad Coincell-Battery-v17.fzp
+{'information': [], 'warning': [{'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'author', 'context': ['root']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad Coincell-Battery-v17_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/gogoboard 4.0.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (GogoBoard)', 'gogoboard_4.043282.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_crystal.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'duplicate_layer', 'msg': '2 layers in same view with the same id', 'value': 'copper1', 'context': ['module.views.*View.layers.layer', 'pcbView', {'folder': 'pcb', 'name': 'SMD_crystal_HC49.svg'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Taiway-100-SP-X-T1-X-X-B1-M1_SPDT_miniature_toggle_switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LTC3105_msop.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': '400mA Step-Up DC/DC ', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/sparkcore-pcb-shape.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/sparkcore-pcb-shape.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_lm358_SO.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'not-schematic-subparts', 'context': ['module']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/atlas-sientific_D.O. Circuit.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': 'Dissolved\nOxygen', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SPARKCORE_v1_fix.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino compatible)', 'SPARKCORE_v1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_bt07.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_bt07_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/acpower.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'schematic', 'context': ['family', 'voltage source', 'acpower.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'schematic', 'context': ['family', 'voltage source', 'acpower.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/lightblue-bean-shield_two_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-lightblue-bean-shield.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/WeIO.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board', 'WeIO_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Humidity_Sensor_SHT15.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'icon', 'context': ['breadboardView', 'breadboard/Humidity_Sensor_SHT15_breadboard.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'breadboardView', 'context': ['breadboard/Humidity_Sensor_SHT15_breadboard.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/electron_board.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino compatible)', 'electron_board_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_Ethernet.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_Ethernet_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'arduino_uno(rev3)-icsp_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/HiFive1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'HiFive1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/transistor_signal_PNP_TO92_CBE.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Espruino', 'EspruinoPico_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/NetduinoPlus.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (Netduino)', 'NetduinoPlus.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Sparkfun_IMU_Breakout_MPU-9250.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': ' SEN-13762', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/powerbutton_adafruit.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/polarizedheader4pin_0.156in.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-Simple-v25.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-Simple-v25_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad_LED-v14.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad_LED-v14_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/bareconductive_touchboard.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board', 'bareconductive_touchboard_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/lm35.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/reedSwitch_500mil.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-Button-v12.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-Button-v12_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/TI Launchpad MSP430G2.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/TI_Launchpad_MSP430G2_icon.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/TI_Launchpad_MSP430G2_icon.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel-arduino_galileo_gen2.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel-arduino-galileo_gen2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel-arduino_galileo-simple.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel-arduino-galileo_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/SMD_BC847.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'arduino_uno(rev3)-icsp(1)_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp
+{'information': [], 'warning': [{'key': 'dup_support_ele', 'msg': 'duplicate supporting element in module', 'value': 'title', 'context': ['root']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-slide-switch13.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-slide-switch13_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_Micro_Rev03(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_Micro_Rev03_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-10_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/raspio_duino.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Shield (Raspberry Pi)', 'raspio_duino_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/raspberrypi-pcb-shape.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/raspberrypi-pcb-shape.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Fio-v22(iscp+)-bottom.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Fio-v22_bottom_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Fuse_with_Handler.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/Fuse_with_Handler_icon.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/Fuse_with_Handler_icon.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad-XBee-v15.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad-XBee-v15_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel_edison_arduinobreakout.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel_edison_arduinobreakout_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Raspberry_Pi_B(rev2).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'CPU Board (Raspberry Pi)', 'raspberry_pi_rev2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Peppermill Power Board.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['pcbView', 'pcb/Peppermill_Power_Board__a40e6dc7c979bcff.svg']}], 'error': [{'key': 'null_family', 'msg': 'empty family property', 'value': None, 'context': []}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/intel_edison_minibreakout-bottom_fix.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (intel)', 'intel_edison_minibreakout_bottom_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/dcpower2.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'schematic', 'context': ['family', 'voltage source', 'dcpower.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'schematic', 'context': ['family', 'voltage source', 'dcpower.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/PHOTON_fix.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino compatible)', 'PHOTON_824ff3ebabbafb3949f059a17a7025a9_2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'arduino_Uno_Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Color_Sensor_Breakout_ADJD_S311.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'icon', 'context': ['breadboardView', 'breadboard/Color_Sensor_Breakout_ADJD_S311_breadboard.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'breadboardView', 'context': ['breadboard/Color_Sensor_Breakout_ADJD_S311_breadboard.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/lm34.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/screw_terminal_2_100mil.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-intel-galileo-half-pcb-shape.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-intel-galileo-half-pcb.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/basic_fsr.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/LilyPad_Arduino_USB.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (lilypad)', 'LilyPad_Arduino_USB_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-shield.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-shield.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino-Fio-v22(iscp+).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino-Fio-v22_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Dial Potentiometer with switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Camdenboss_CTB0158-4_5_08mm_pitch_90deg_terminals.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/tmp36.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/pot_trimmer_6mm.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'microcontroller board (arduino)', 'Arduino_ADK_MEGA_2560-Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/Netduino.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', 'Microcontroller Board (Netduino)', 'Netduino.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/core/arduino-mega-r3-shield_one_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-mega-R3.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', 'Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/ELECTRON_90f1556e6dcbdc62b58429de7696758a_7.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino compatible)', 'ELECTRON_739a9addbae108685e6c3dccb3216bb9_4_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino_Leonardo_Rev3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino_Leonardo_Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/inductor.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-200x300.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_200x300mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino-Pro-Mini-v13.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino-Pro-Mini-v13_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-100x160.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_100x160mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Raspberry Pi Zero.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//cpu board (raspberry pi)', 'raspberry_pi_zero_rev-1.1.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/trimpot_meggitt_pih.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/basic_pushbutton_2lead_horizon.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-250x250.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_250x250mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino-shield_two_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-shield.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/avr_isp_10_pin.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/avr_isp_10_pin_icon.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/avr_isp_10_pin_icon.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino_Micro_Rev03.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino_Micro_Rev03_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/big_pot.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Raspberry Pi 3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//cpu board (raspberry pi)', 'raspberry_pi_3_rev-1.2.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/SPARKCORE_v10_812c474c8bfaf7c15553a915ced9e227_3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino compatible)', 'SPARKCORE_v10_2e5da62ec746862822eab27a1f6c2ec4_1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/basic_poti.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino_mega.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Microcontroller Board (Arduino)', 'controller_arduino_mega.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/SPARKCORE_v1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino compatible)', 'SPARKCORE_v1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Raspberry_Pi(rev1).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//CPU Board (Raspberry Pi)', 'raspberry_pi_rev1_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino-Fio-v22.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino-Fio-v22_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/LBT2088AH.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-60x100.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_60x100mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino_UNO_R3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Microcontroller Board (Arduino)', 'controller_arduino_uno_r3.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/PowerSupply-Lipo-v14.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'url2', 'context': ['module']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/controller_arduino_diecimila.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-diecimila.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Microcontroller Board (deprecated)', 'controller_arduino_diecimila.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'creator', 'context': ['module']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/basic_transistor_pnp.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/stepper_motor_bipolar.fzp
+{'information': [], 'warning': [], 'error': [{'key': 'untrimmed_text', 'msg': 'found unexpected surrounding whitespace for context', 'value': ' 2.4 kg*cm', 'context': [{'context': 'property name text value'}]}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Raspberry_Pi(rev2).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//CPU Board (Raspberry Pi)', 'raspberry_pi_rev2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Microcontroller Board (Arduino)', 'controller_arduino_diecimila.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino_Uno_Rev3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'arduino_Uno_Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/TI Launchpad MSP430G2__ebb2b2673b63f5dd6fb32b9685c74b9e.fzp
+{'information': [], 'warning': [{'key': 'bad_icon_layer', 'msg': 'unexpected icon layer for image path', 'value': 'breadboard', 'context': ['iconView', 'icon/TI_Launchpad_MSP430G2__ebb2b2673b63f5dd6__icon__d5bd55db9735ae6f290efdcaf7dcbe5f.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['pcbView', 'pcb/TI_Launchpad_MSP430G2__ebb2b2673b63f5dd6__pcb__dc852d1a041bd74f567f3fc8d950cecd.svg']}], 'error': [{'key': 'multiple_layer', 'msg': 'multiple layer elements for non-pcb view', 'value': 'iconView', 'context': ['icon/TI_Launchpad_MSP430G2__ebb2b2673b63f5dd6__icon__d5bd55db9735ae6f290efdcaf7dcbe5f.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino_Yun(rev1).fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'arduino_Yun(rev1)_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-75x100.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_75x100mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/intel_edison_minibreakout-bottom.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (intel)', 'intel_edison_minibreakout_bottom_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/transistor_signal_NPN_TO92.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/arduino-mega-r3-shield_two_layer.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb-arduino-mega-R3.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain Vanilla PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain Vanilla PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Espruino', 'EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_8_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino Ethernet Shield.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//Arduino Shield', 'Arduino_Ethernet_Shield__1f9aa78a3d98991.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/transistor_signal_PNP_TO92.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino Nano3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino Nano3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino_ADK_MEGA_2560-Rev3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino_ADK_MEGA_2560-Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/basic_transistor_npn.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pcb-plain-150x200.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['breadboardView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'unknown', 'context': ['schematicView', 'icon/plain_pcb.svg']}, {'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/pcb_150x200mm.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'unknown', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}, {'key': 'bb_no_bb_path', 'msg': 'breadboardView not using breadboard folder', 'value': 'icon', 'context': ['family', '//obsolete//Plain PCB', 'plain_pcb.svg']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/PHOTON_ca9087bc7b8f5056051e64319edd973f_1.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino compatible)', 'PHOTON_824ff3ebabbafb3949f059a17a7025a9_2_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Rotary_Encoder.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/Arduino_MEGA_2560-Rev3.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (arduino)', 'Arduino_MEGA_2560-Rev3_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/intel_edison_minibreakout.fzp
+{'information': [], 'warning': [{'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//microcontroller board (intel)', 'intel_edison_minibreakout_breadboard.svg']}], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/pot_trimmer_6mm.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/artreeno.fzp
+{'information': [], 'warning': [{'key': 'bad_layer4image', 'msg': 'unexpected view layer id for image path', 'value': 'board', 'context': ['pcbView', 'pcb/artreeno.svg']}, {'key': 'bad_bb_layer', 'msg': 'breadboardView not using breadboard layer', 'value': 'breadboardbreadboard', 'context': ['family', '//obsolete//PCB Tree', 'artreeno.svg']}], 'error': [{'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'defaultUnits', 'context': ['module.views']}, {'key': 'not_child_element', 'msg': 'unrecognized xml element for context', 'value': 'label', 'context': ['module.views']}]}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/reed switch.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
+/home/phil/Documents/data_files/fritzing-parts/obsolete/basic_pushbutton.fzp
+{'information': [{'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'fliphorizontal', 'context': ['schematicView']}, {'key': 'redundant_attribute', 'msg': 'redundant attribute for view', 'value': 'flipvertical', 'context': ['schematicView']}], 'warning': [], 'error': []}
+
