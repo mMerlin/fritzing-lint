@@ -9,7 +9,8 @@ This is intended to be extremely picky. Like the programming language linting to
 
 This is a work in progress, so development notes will be found throughout. It is not (yet) intended for plug and play usage for casual Fritzing parts creators. Initially it is expected to be used by the main Fritzing parts library maintainers, to triage cleanup.
 
-* [README](README.md)
+* [Repository](https://github.com/mmerlin/fritzing-lint)
+* [Lint Details](lint.md)
 * [count_parts](#link_count_parts)
 * [extract_fz](#link_extract_fz)
 * [parse_fzp](#link_parse_fzp)
