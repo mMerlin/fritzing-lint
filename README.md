@@ -1,7 +1,7 @@
 <!-- cSpell:enable -->
 # Fritzing Lint
 
-<link href="css/my_css.css" rel="stylesheet"/>
+<link href="css/github_override.css" rel="stylesheet"/>
 
 A set of scripts, process, notes to detect and report problems with Fritzing part files, whether they are part of the core library, in users parts, or from individual part definition files.
 

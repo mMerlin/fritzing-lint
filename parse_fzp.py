@@ -44,7 +44,6 @@ class ProcessParts:
     for now, just pass a single fzp file from cli arguments to
     the parsing code
     '''
-    # pylint: disable=too-few-public-methods
     def __init__(self, cmd_args: argparse.Namespace):
         '''select part files and processing options from command line arguments'''
         self.command_arguments = cmd_args

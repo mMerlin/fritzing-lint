@@ -2,7 +2,7 @@
 # coding=utf-8
 
 '''
-iterate of (selected) Fritzing part folders / files, yielding on at a time
+iterate over (selected) Fritzing part folders / files, yielding one at a time
 
 concept:
 

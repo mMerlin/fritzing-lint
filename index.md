@@ -1,11 +1,13 @@
 <!-- cSpell:enable -->
 # Fritzing `lint` code
 
-<link href="/home/phil/Documents/data_files/markdown.css" rel="stylesheet"/>
+<link href="css/github_override.css" rel="stylesheet"/>
 
-* [here](./)
-* [top](/home/phil/index.md)
-</br></br>
+This a project to provide a tool to check for issues in fritzing part files. It (eventually) should be able to examine libraries, bins, individual parts, fzpz files, and even parts embedded in sketch files. To start, it is only looking at parts contained in the standard Fritzing Parts library structure. That is either a regular parts library, or the user parts library.
+
+This is intended to be extremely picky. Like the programming language linting tools, not everything it reports is going to be a real problem. It reports things that should be looked at, and *deliberate* choices made about whether the suspicious condition is valid for the specific part and context. What it reports will (in the future) be able to be controlled by configuration settings and command line flags.
+
+This is a work in progress, so development notes will be found throughout. It is not (yet) intended for plug and play usage for casual Fritzing parts creators. Initially it is expected to be used by the main Fritzing parts library maintainers, to triage cleanup.
 
 * [count_parts](#link_count_parts)
 * [extract_fz](#link_extract_fz)
@@ -14,45 +16,6 @@
 
 ```sh
 pipenv install defusedxml
-# pipenv install defusedexpat
-# failed: no gcc in pipenv toolbox
-```
-
-Virtual Box ¦ Fedora 31 Workstation ¦ update 20200727
-
-```sh
-% sudo vi /etc/yum.repos.d/vscode.repo
-[code]
-name=Visual Studio Code
-baseurl=https://packages.microsoft.com/yumrepos/vscode
-enabled=1
-gpgcheck=1\gpgkey=https://packages.microsoft.com/keys/microsoft.asc
-% sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
-% sudo dnf upgrade --refresh rpm glibc
-% sudo dnf -y install gcc libX11-xcb libicu
-% sudo dnf install --refresh code
-% sudo dnf install pipenv
-% mkdir -p ~/development/fritzing-lint
-% start sshd
-# lybica
-# shadow31 continue
-% cd ~/development/fritzing-lint
-pipenv --three
-pipenv install pylint
-pipenv install defusedxml
-#pipenv install defusedexpat
-# fails on vm too
-pipenv shell
-pylint parse_xml.py
-
-```
-
-lybica
-
-```sh
-rsync -a ~/Templates phil@shadow31:
-rsync -a $HOME/development/workspace/python/fritzing-lint/*.py phil@shadow31:development/fritzing-lint
-rsync -a $HOME/development/workspace/python/fritzing-lint/*.md phil@shadow31:development/fritzing-lint
 ```
 
 <!--
@@ -62,9 +25,9 @@ rsync -a $HOME/development/workspace/python/fritzing-lint/*.md phil@shadow31:dev
 
 ## <a name="link_count_parts">⚓</a> count_parts
 
-Takes command line parameters to specify the path to Fritzing parts library folder, and (optionally) the user data parts folder. Walks the folder trees, matching the nested content to the expected folder structure and file content. Optionally, does the same for the associated svg folder.
+Takes command line parameters to specify the path to a Fritzing parts library folder, and (optionally) the user data parts folder. Walks the folder trees, matching the nested content to the expected folder structure and file content. Optionally, does the same for the associated svg folder.
 
-Contains the complete structure to walk through the parts folders, and inspect every Fritzing part. That definition files, and all of the linked svg image view files.
+Contains the complete structure to walk through the parts folders, and inspect every Fritzing part. The definition files, and all of the linked svg image view files.
 
 Remove the count reporting, and add a call to the «fzp¦svg» xml processing method
 
@@ -94,7 +57,7 @@ optional arguments:
 
 ## <a name="link_extract_fz">⚓</a> extract_fz
 
-?incomplete? code to extract .fz (and other) from a .fzz file
+?incomplete? code to extract .fz (and other content) from a .fzz file
 -- to be able to manipulate the content using xml tools
 
 ## <a name="link_parse_fzp">⚓</a> parse_fzp
@@ -102,6 +65,8 @@ optional arguments:
 Planned python code to load, examine, manipulate the contents of an xml part definition file
 
 Reference: phil#lybica:development/FritzingProjects/FritzingParts/repos/part-parse ¦ dtd
+
+* [Notes](#link_parse_notes)
 
 ```sh
 pipenv install defusedxml
@@ -129,6 +94,23 @@ from memory, a replacement/patch/overlay to ElementTree to address security conc
 import xml.etree.ElementTree as ET
 root = EG.parse('filepath.xml').getroot()
 ```
+
+### <a name="link_parse_notes">⚓</a> Parsing notes
+
+add a sanity check to the `<label>` tag content. Should be short, no spaces, very limited punctuation.
+
+Add check for leading or trailing whitespace for other elements (description)
+
+Several references seen to `<DefaultUnits>` element. Does Fritzing actually used it, and how?
+
+Many references to "unknown" view layer name. Is it special somehow?
+
+several 'board' layer id values for pcb. Is that another special meaning? For parts that only have a pcb view.
+
+Ignore some errors for obsolete parts (obsolete folder, and obsolete family). Many exception cases are not going to be fixed in obsolete. The issue might be why it is in obsolete in the first place. If fixing the exception would require the obsolete process, don't bother reporting it. Or drop it to 'informational' severity.
+-- bad_layer4image
+-- bad_bb_layer
+-- bb_no_bb_path
 
 ## functional comment block
 
