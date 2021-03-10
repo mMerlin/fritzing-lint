@@ -3,7 +3,7 @@
 
 <link href="css/github_override.css" rel="stylesheet"/>
 
-This a project to provide a tool to check for issues in fritzing part files. It (eventually) should be able to examine libraries, bins, individual parts, fzpz files, and even parts embedded in sketch files. To start, it is only looking at parts contained in the standard Fritzing Parts library structure. That is either a regular parts library, or the user parts library.
+This is a project to provide a tool to check for issues in [Fritzing](https://github.com/fritzing/fritzing-app) application [part library](https://github.com/fritzing/fritzing-parts) files. It (eventually) should be able to examine libraries, bins, individual parts, fzpz files, and even parts embedded in sketch files. To start, it is only looking at parts contained in the standard Fritzing Parts library structure. That is either a regular parts library, or the user parts library.
 
 This is intended to be extremely picky. Like the programming language linting tools, not everything it reports is going to be a real problem. It reports things that should be looked at, and *deliberate* choices made about whether the suspicious condition is valid for the specific part and context. What it reports will (in the future) be able to be controlled by configuration settings and command line flags.
 

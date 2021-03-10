@@ -28,6 +28,10 @@ See the [github.io index page](https://mmerlin.github.io/fritzing-lint)
   * parts filtered by metadata
     * family, tag, title, description, author, more
     * exact or substring match
+  * parts in a Fritzing sketch
+    * both core and custom
+      * watch for parts that have been obsoleted in the core library
+    * wild care pattern of sketch files
 * missing image files
 * orphan image files
 
